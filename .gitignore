@@ -1,0 +1,18 @@
+# Sensitive configuration
+.env
+*.key
+*.pem
+credentials.json
+
+# Local notes and drafts
+AGENTS.md
+memory.md
+*.local.md
+*.draft.md
+
+# Runtime and system files
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.log
