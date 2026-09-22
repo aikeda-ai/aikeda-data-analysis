@@ -17,7 +17,7 @@
 将仓库克隆到你所使用的 Agent 的 Skill 目录：
 
 ```bash
-git clone https://github.com/yhurrima/aikeda-data-analysis.git <skills-directory>/aikeda-data-analysis
+git clone https://github.com/aikeda-ai/aikeda-data-analysis.git <skills-directory>/aikeda-data-analysis
 ```
 
 确保运行环境能够读取目录中的 `SKILL.md`，并支持 Skill 所需的数据处理、浏览器验收和文档发布能力。
